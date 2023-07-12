@@ -1,1 +1,2 @@
-PATH_TO_FEATURED_WORKFLOW=
+# Manually point to the starter workflows that should be featured
+PATH_TO_FEATURED_WORKFLOW: 'code-scanning/crunch42.yml'
